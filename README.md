@@ -2,7 +2,7 @@
 
 I'm Ali, and I study Economics at the University of Bonn. My main focus is Econometrics and Statistics because I am interested in data analysis to quantify real-world phenomena. I enjoy working with R and Python, and I want to delve into Economics with a quantitative approach. :)
 
-<<img src="(https://www.r-project.org/Rlogo.png" alt="R">
+<img src="(https://www.r-project.org/Rlogo.png" alt="R">
 
 <!--
 **alikant/alikant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
