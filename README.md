@@ -1,6 +1,13 @@
-### Hi, I'm Ali 👋
+### Hi there 👋
 
-I study Economics at the University of Bonn. My main focus is Econometrics and Statistics because I am interested in data analysis to quantify real-world phenomena. I enjoy working with R and Python, and I want to delve into Economics with a quantitative approach. :)
+My name is Ali, and I am a Master's student in Economics (Econometrics and Statistics) at the University of Bonn.
+
+I am interested in Causal Inference, Difference-in-Differences, and Machine Learning methods.
+
+I enjoy working with R and Python, and you can find my projects on my GitHub page.
+
+- 👨‍💻 All of my projects are available at [https://github.com/alikant/PortfolioProject](https://github.com/alikant/PortfolioProject)
+- 📫 How to reach me **s85akana@uni-bonn.de**
 
 <!--
 **alikant/alikant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
