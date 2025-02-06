@@ -4,10 +4,15 @@ My name is Ali, and I am a Master's student in Economics (Econometrics and Stati
 
 I am interested in Causal Inference, Difference-in-Differences, and Machine Learning methods.
 
-I enjoy working with R and Python, and you can find my projects on my GitHub page.
+You can find my projects on my GitHub page.
 
 - 👨‍💻 All of my projects are available at [https://github.com/alikant/PortfolioProject](https://github.com/alikant/PortfolioProject)
 - 📫 How to reach me **s85akana@uni-bonn.de**
+
+Languages:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+
 
 <!--
 **alikant/alikant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
